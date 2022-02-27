@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radekl99
 - 👀 I’m interested in programming, sport and TV Shows
-- 🌱 I’m currently learning React, Next.js and TailwindCSS
+- 🌱 I’m currently learning Node.js :D
 - 📫 How to reach me? By email radek.laszek1999@gmail.com
 
 <!---
