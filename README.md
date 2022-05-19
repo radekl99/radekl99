@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radekl99
 - 👀 I’m interested in programming, sport and TV Shows
-- 🌱 I’m currently learning Next.js and Java
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me? By email radek.laszek1999@gmail.com
 
 <!---
