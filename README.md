@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radekl99
 - 👀 I’m interested in programming, sport and TV Shows
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Python
 - 📫 How to reach me? By email radek.laszek1999@gmail.com
 
 <!---
